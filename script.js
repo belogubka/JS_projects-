@@ -59,7 +59,7 @@ do{
   let inputNumber =+ input;
 
   if (isNaN(inputNumber)){
-    alert("Было введено не число, попробуйте еще раз");
+    alert("you enter not a number, enter a number pls");
   } else {
     total += inputNumber;
   }
